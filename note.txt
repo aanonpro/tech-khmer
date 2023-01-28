@@ -1,0 +1,24 @@
+// image thumbnail content
+
+width: 360 px
+height: 245 px
+
+// image detail
+
+width: 750 px
+height: 400 px
+
+// image thumbnail home page
+
+width: 750 px
+height: 645 px
+
+// image thumbnail home page right side
+
+width: 381 px
+height: 308 px
+
+//image thumbnail small 
+
+ width: 124 px
+ height: 104 px
